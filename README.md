@@ -6,4 +6,4 @@
 markdown中有一些mermaid语法，如果不能显示的同学可以下载一个支持mermaid语法的工具，在下用的是Typora
 如果不需要在原来基础上修改的同学直接看pdf就可以了
 
-法律小白，侵删
+源码来源：https://github.com/MrJian8/ThreadDemo
